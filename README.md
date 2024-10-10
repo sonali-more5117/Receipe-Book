@@ -16,5 +16,9 @@ CSS3: For styling, including the use of Flexbox and Grid to create a responsive 
 JavaScript (ES6): For adding interactivity, including recipe filtering and dynamic content rendering.
 
 #sample image
+![image](https://github.com/user-attachments/assets/e36c3011-699a-403c-bcba-b075126b3c1a)
+![image](https://github.com/user-attachments/assets/0b98b6f2-7867-4a2a-bc27-2aae64b01087)
+![image](https://github.com/user-attachments/assets/a382d309-f873-4d35-8afd-e524d1c93132)
+
 
 
