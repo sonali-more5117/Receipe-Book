@@ -4,7 +4,7 @@ It allows users to browse, search, and view recipes along with their ingredients
 The app is designed with a clean and visually appealing UI, 
 featuring a soft color scheme of baby pink and lavender.
 
-#Features
+# Features
 Browse Recipes: Users can scroll through a collection of recipes with images and titles.
 Search Functionality: Users can search for recipes by name or ingredients.
 View Recipe Details: Each recipe includes a detailed view showing ingredients, steps, and cooking time.
