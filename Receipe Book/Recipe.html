@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Detail</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Recipe Detail</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="saved.html">Saved Recipes</a>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search recipes...">
+            <button onclick="searchRecipe()">Search</button>
+        </div>
+    </nav>
+
+    <main>
+        <section id="recipe-detail">
+            <!-- Recipe details will be dynamically inserted here -->
+        </section>
+        <div class="save-recipe-container">
+            <button id="save-recipe-btn" onclick="saveRecipe()">Save Recipe</button>
+        </div>
+    </main>
+
+    <script src="Recipe.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saved Recipes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Saved Recipes</h1>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="recipe.html">Recipes</a>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search saved recipes...">
+            <button onclick="searchSavedRecipes()">Search</button>
+        </div>
+    </nav>
+
+    <main>
+        <section id="saved-recipes">
+            <h2>Your Saved Recipes</h2>
+            <!-- Saved recipes will be dynamically displayed here -->
+        </section>
+    </main>
+
+    <script src="saved.js"></script>
+</body>
+
+</html>
